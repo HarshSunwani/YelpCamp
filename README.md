@@ -50,7 +50,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [Nodejs](https://nodejs.org/en/)
 - [EJS](https://ejs.co/)
 - [MongoDB](https://www.mongodb.com/)
-- 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
