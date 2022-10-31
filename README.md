@@ -73,7 +73,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/YelpCamp-Campgrounds
+   git clone https://github.com/HarshSunwani/YelpCamp.git
    ```
 2. Install NPM packages
    ```sh
@@ -100,14 +100,3 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-<p align="right">(<a href="#top">back to top</a>)</p>
