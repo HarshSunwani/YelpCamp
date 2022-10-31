@@ -108,16 +108,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
-
-Project Link: [YelpCamp Campgrounds](https://github.com/yashfalke77/YelpCamp-Campgrounds)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
